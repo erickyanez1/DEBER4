@@ -28,7 +28,10 @@
 - Capítulo 7
 <div align="center">
 
-  
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/MarcoTeorico_1.png)
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/MarcoTeorico_2.png)
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/MarcoTeorico_3.png)
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/MarcoTeorico_4.png)
   
   
   
