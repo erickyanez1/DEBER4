@@ -16,12 +16,12 @@
 # **1. OBJETIVOS**
 
 **OBJETIVO GENERAL**
-  - .
+  - Comprender los métodos de análisis con una o más fuentes en circuitos tanto en serie, paralelo y mixtos mediante el estudio del libro de Análisis de Circuitos de Robbins y Miller junto con las diapositivas de clase con la finalidad de la realización y fácil interpretación del circuito que se llegue a presentar.
  
  **OBJETIVOS ESPECÍFICOS**
-  - .
-  - .
-  - .
+  - Aplicar los conocimientos adquiridos en circuitos mixtos mediante cálculos con el fin de percatarnos resistencias equivalentes, intensidades y voltajes que circulan mediante las resistencias.
+  - Analizar los circuitos con más de una fuente mediante ilustraciones armadas del nuevo circuito con el fin de tener una nueva visión del circuito para una mayor facilidad en su resolución.
+  - Calcular las resistencias, voltajes e intensidades mediante las leyes de Kirchoff y teoremas de Thévenin y Norton con el fin del desarrollo de los circuitos.
   
 # **2. MARCO TEÓRICO**
 
