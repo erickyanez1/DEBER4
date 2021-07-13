@@ -96,7 +96,13 @@
 - Capítulo 8
 <div align="center">
 
-  
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Ejer_1y3_cap8.png)
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Ejer_5y7_cap8.png)
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Ejer_9y11_cap8.png)
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Ejer_15y17_cap8.png)
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Ejer_19_cap8.png)
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Ejer_21_cap8.png)
+
   
   
   
