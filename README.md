@@ -51,22 +51,6 @@
 ![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/MapaCap8_P6.jpg)
 ![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/MapaCap8_P7.jpg)
 ![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/MapaCap8_P8.jpg)
-![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Cap8_P1.jpg) 
-![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Cap8_P2.jpg) 
-![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Cap8_P3.jpg)
-![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Cap8_P4.jpg) 
-![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Cap8_P5.jpg) 
-![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Cap8_P6.jpg) 
-![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Cap8_P7.jpg) 
-![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Cap8_P8.jpg) 
-![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Cap8_P9.jpg) 
-![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Cap8_P10.jpg) 
-![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Cap8_P11.jpg) 
-![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Cap8_P12.jpg)
-![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Cap8_P13.jpg) 
-![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Cap8_P14.jpg) 
-![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Cap8_P15.jpg) 
-
 
 </div>
 
@@ -109,12 +93,22 @@
 ![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Ejer_15y17_cap8.png)
 ![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Ejer_19_cap8.png)
 ![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Ejer_21_cap8.png)
-
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Cap8_P1.jpg) 
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Cap8_P2.jpg) 
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Cap8_P3.jpg)
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Cap8_P4.jpg) 
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Cap8_P5.jpg) 
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Cap8_P6.jpg) 
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Cap8_P7.jpg) 
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Cap8_P8.jpg) 
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Cap8_P9.jpg) 
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Cap8_P10.jpg) 
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Cap8_P11.jpg) 
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Cap8_P12.jpg)
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Cap8_P13.jpg) 
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Cap8_P14.jpg) 
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Cap8_P15.jpg) 
   
-  
-  
-
-
 </div>
 
 # **4. VÍDEO**
