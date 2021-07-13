@@ -26,21 +26,77 @@
 # **2. MARCO TEÓRICO**
 
 - Capítulo 7
+<div align="center">
+
+  
+  
+  
+  
 
 
+</div>
 
 
 - Capítulo 8
+<div align="center">
+
+  
+  
+  
+  
+  
+
+
+</div>
+
+
 
 
 # **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 - Capítulo 7
+<div align="center">
 
+  
+  
+https://github.com/erickyanez1/DEBER4/blob/main/IMG/7-3.PNG
+
+  
+  
+https://github.com/erickyanez1/DEBER4/blob/main/IMG/7-7.PNG
+  
+  
+
+https://github.com/erickyanez1/DEBER4/blob/main/IMG/7-11.1.PNG
+  
+https://github.com/erickyanez1/DEBER4/blob/main/IMG/7-11.2.PNG
+  
+  
+  
+https://github.com/erickyanez1/DEBER4/blob/main/IMG/7-15.PNG
+  
+  
+  
+https://github.com/erickyanez1/DEBER4/blob/main/IMG/7-27.PNG
+  
+  
+  
+https://github.com/erickyanez1/DEBER4/blob/main/IMG/7-31.PNG
+  
+  
+
+</div>
 
 - Capítulo 8
+<div align="center">
+
+  
+  
+  
+  
 
 
+</div>
 
 # **4. VÍDEO**
 
