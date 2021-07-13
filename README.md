@@ -59,7 +59,7 @@
 
   
   
-https://github.com/erickyanez1/DEBER4/blob/main/IMG/7-3.PNG
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/7-3.PNG)
 
   
   
