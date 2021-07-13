@@ -86,7 +86,10 @@
   
 ![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/7-31.PNG)
   
-  
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Ejer_35_cap7.png)
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Ejer_37_cap7.png)
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Ejer_39_cap7.png)
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/Ejer_41_cap7.png) 
 
 </div>
 
