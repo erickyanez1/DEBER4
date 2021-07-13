@@ -67,7 +67,7 @@
 <div align="center">
 
   
-  
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/7-1.PNG) 
 ![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/7-3.PNG)
 ![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/7-5.PNG)
 ![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/7-7.PNG)
