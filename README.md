@@ -119,7 +119,7 @@
 Se concluye que:
 
 - En los circuitos mixtos, es más fácil resolverlos o simplificarlos mediante Ley de Ohm, aún así las leyes de voltaje e intensidad de Kirchhoff se aplican al análisis de los circuitos en serie y paralelo, así mismo los divisores de voltaje e intensidad son fundamentales para los circuitos que sean más complejos.
--  .
+- Los efectos de caraga de los instrumentos no pueden tener un efecto de carga cero, ya que todos los instrumentos absorben alguna energía del circuito ,lo cual si afecta en su operación .
 -  .
 
 
