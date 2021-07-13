@@ -43,8 +43,14 @@
 - Capítulo 8
 <div align="center">
 
-  
-  
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/MapaCap8_P1.jpg)
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/MapaCap8_P2.jpg)
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/MapaCap8_P3.jpg)
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/MapaCap8_P4.jpg)
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/MapaCap8_P5.jpg)
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/MapaCap8_P6.jpg)
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/MapaCap8_P7.jpg)
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/MapaCap8_P8.jpg)
   
   
   
