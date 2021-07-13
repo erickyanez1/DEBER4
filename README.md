@@ -63,25 +63,25 @@
 
   
   
-https://github.com/erickyanez1/DEBER4/blob/main/IMG/7-7.PNG
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/7-7.PNG)
   
   
 
-https://github.com/erickyanez1/DEBER4/blob/main/IMG/7-11.1.PNG
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/7-11.1.PNG)
   
-https://github.com/erickyanez1/DEBER4/blob/main/IMG/7-11.2.PNG
-  
-  
-  
-https://github.com/erickyanez1/DEBER4/blob/main/IMG/7-15.PNG
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/7-11.2.PNG)
   
   
   
-https://github.com/erickyanez1/DEBER4/blob/main/IMG/7-27.PNG
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/7-15.PNG)
   
   
   
-https://github.com/erickyanez1/DEBER4/blob/main/IMG/7-31.PNG
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/7-27.PNG)
+  
+  
+  
+![](https://github.com/erickyanez1/DEBER4/blob/main/IMG/7-31.PNG)
   
   
 
