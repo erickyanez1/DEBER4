@@ -21,7 +21,7 @@
  **OBJETIVOS ESPECÍFICOS**
   - Aplicar los conocimientos adquiridos en circuitos mixtos mediante cálculos con el fin de percatarnos resistencias equivalentes, intensidades y voltajes que circulan mediante las resistencias.
   - Analizar los circuitos con más de una fuente mediante ilustraciones armadas del nuevo circuito con el fin de tener una nueva visión del circuito para una mayor facilidad en su resolución.
-  - Calcular las resistencias, voltajes e intensidades mediante las leyes de Kirchoff y teoremas de Thévenin y Norton con el fin del desarrollo de los circuitos.
+  - Calcular las resistencias, voltajes e intensidades mediante las leyes de Kirchhoff y teoremas de Thévenin y Norton con el fin del desarrollo de los circuitos.
   
 # **2. MARCO TEÓRICO**
 
@@ -50,7 +50,7 @@
 
 Se concluye que:
 
-- .
+- En los circuitos mixtos las leyes de voltaje e intensidad de Kirchhoff se aplican al análisis de los circuitos, así mismo los divisores de voltaje e intensidad son fundamentales para los circuitos que sean más complejos.
 -  .
 -  .
 
